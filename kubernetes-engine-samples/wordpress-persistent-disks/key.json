@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kubenetes-tutorial-272611",
+  "private_key_id": "e8cfa9477f87af6b8a6073525230375b04f4bc45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCy3lCgM5+SyY3z\nsgpi0swqB8z8MeYqETUqOr3igUeEF+4AbEp5oYYhytL3487582s5PsuxmfRK34c2\n+pWEFo3+o4cucGh6mbV1I1foxXWs4klNOcLNtlVYYRD5Y3G+/N+2gKUnGJQZ1Bei\nHv3ZG+dhp5V1Hqv6y7ywfSNQ99e7iEm4Xu0vD1C/6Fa8pC8AtZV7fuDUjE/j0lab\nSVD3mLf4s22e38d1ssexeFUpJgaYxz4z6501Y7qgXRdW4+adWBjcmoTWRcOsqqel\n5KYL+n4FQqE4CH8uvJK5e5jXLorOwENp8cRqcyo6raHo2JUjV+fg0oeosBFuHJ30\nTr6BwP+hAgMBAAECggEAJYxItZCQr3IzI9ScnIkuxaX0kH5zGCKbm/1PziQgXKjf\nU+Rnr+fJ7f8TUWlXkh3YxOAbR3GPmEYbLt3klCFd9nXik0uSiyYIMwpT0m/dF4k7\nJQR6kc90VASwWQHYp2STG88enDnrIQ7mVSiXVkOmy1ewJrFlHdU2C4CBcOZOObX0\n/f0dj+3qUwLZucrEupOsB4m+4sSND5vhvHUg0uNdyEnz/UKUHqfxT8gPcHce0sNj\n2i4cY1C2CjENmivNekEK9YyyQKk7QNSZysY5ql5+F//n4blXWCi8B3NU847Onp7e\njEm1K9UGhRKCI2cu1VzjorHvWztdWfUtAoYYWCU3DwKBgQDgfRfLCu9x9XET40jy\n3KkSau9ejP0MNOtcyYddAIZXWAuHXQBCjpNkbOZL4JOuvUpVUpDHkvpJ0iOUfoGX\n2LhXvByX/yb0Z525Fh6h+5SRbHm5W+3p8CXdk0bm6cmcc95EcQZS+Uper6bMHarf\nhQUbbXoLV5VQ6E7+VY60xCSuOwKBgQDL+eDAQxRRu+uhoFwu/OF8/DnncRzPP/GR\nE+cD1AK+WBIjBvV103GGM0RyKsw1dAq6iSKEGs3TCgd1l5e1wM8bnbY1dffWMzep\nttc6u5ILZw4JaFuUXrIFTMYI7mTv5DqYUXYVQdEd5oDVs8hDa4waIzV23vCrHhAc\nUXDtr0Df0wKBgHxlVTXyTVU8yPhYTigmFppaH2Kphd+pw3KbSiNDEy57X4gXBPnc\nv9g6cDNDsxJ1WieFpSyySXd2trimkXFvaldTqhSgExoEAOZ7V2YzXtRm49zPEDs+\nE/2Aix2SF2JW4qfSacq40Xk+pJMfLXzG3VmhhKucUOWQlZViG74XoqvZAoGAOg+7\n0R6HBykFzrEV7G4hRXGKjf3dpITgH1rZ9HYB/eqV5xCRCGQSuY+YWSMjk8efUi+8\n+nuiwQLm0qs/DQaALa0784XL8VYM7ytToq1HyiUgkr746of2Bpou+NXbN4nwv/DY\nOv7MJsW5QJt3UvGnJL2G93pIaX0aOuVXzuCHB+8CgYB8ZVQJfJkExUVmbFmnxCmk\npALvFvtN6hwCr2dD1EvMNue/uqVXazec3ZvfO9wDxldHhf2fUMxaJvT7FkiAdkJP\n4nyIywsNNoj9JIL1HoJkTMC/KJESeSnqyX+Hn5horxRmT4N/pWdCs79VMfeKtyCU\ne/mwZGXgAGfJ/GbnKDG4SA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudsql-proxy@kubenetes-tutorial-272611.iam.gserviceaccount.com",
+  "client_id": "116303313099699647618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudsql-proxy%40kubenetes-tutorial-272611.iam.gserviceaccount.com"
+}
